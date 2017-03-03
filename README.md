@@ -1,8 +1,8 @@
 # Titanic-Data-Analysis
 A simple analysis of data from titanic(Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early morning of 15 April 1912)
-Udacity
 
-Data Analyst Nanodegree
+
+Data Analyst Nanodegree,Udacity
 
 " Data Scientist was rated by Glassdoor as the # 1 Best Job in America for 2016. Join 1,606 other students in our Data Analyst Nanodegree!
 
